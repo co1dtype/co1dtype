@@ -2,6 +2,7 @@
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rich32123)](https://solved.ac/rich32123)
+[![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=co1dtype)](https://solved.ac/co1dtype)
 
 <!--
