@@ -2,6 +2,7 @@
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rich32123)](https://solved.ac/rich32123)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=co1dtype)](https://solved.ac/co1dtype)
 
 <!--
 **co1dtype/co1dtype** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
